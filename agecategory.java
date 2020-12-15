@@ -1,3 +1,34 @@
+/*** 
+Age Category
+by CodeChum
+
+It’s time for the annual city Sportsfest. All individuals young and old may join but it wouldn’t be fair to match a young player against an older one. So to keep the event fun, we decided to hold separate tournaments for different age groups. The categories are:
+
+Child - 0 to 12 years old
+Teenager - 13 to 17 years old
+Adult - 18 to 59 years old
+Senior Citizen - 60 years old and above
+Let’s try to do this as quick as possible by using the power of technology and programming!
+
+Input Format
+
+A single line containing the age.
+
+Constraint:
+- 0 <= age <= 99
+
+Input Sample
+
+14
+Output Format
+
+A single line containing the appropriate age category
+
+Output Sample
+
+Teenager  ***/
+
+
 import java.util.Scanner;
 
 class Main{
